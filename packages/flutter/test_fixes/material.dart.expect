@@ -495,7 +495,10 @@ void main() {
   // Changes made in https://github.com/flutter/flutter/pull/96115
   Icon icon = Icons.pie_chart_outline;
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> fb57da5f945d02ef4f98dfd9409a72b7cce74268
 
   // Changes made in https://github.com/flutter/flutter/pull/96957
   Scrollbar scrollbar = Scrollbar(thumbVisibility: true);
@@ -529,5 +532,8 @@ void main() {
 
   // Change made in https://github.com/flutter/flutter/pull/100381
   SelectionOverlay.fadeDuration;
+<<<<<<< HEAD
+>>>>>>> fb57da5f945d02ef4f98dfd9409a72b7cce74268
+=======
 >>>>>>> fb57da5f945d02ef4f98dfd9409a72b7cce74268
 }
